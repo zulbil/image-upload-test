@@ -1,5 +1,6 @@
 # Getting Started with Create React App
 
+The goal of this project is to test our lambda function that upload image to s3 bucket.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
